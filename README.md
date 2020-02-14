@@ -1,6 +1,18 @@
-# test1
+#### News Hours Apps in FLutter
 
-A new Flutter project.
+#### Show some ❤️ and star the repo to support the project
+  - fork this repo and see the code
+# Development
+  - Want to contribute? Great!
+
+# Designed And Developed By
+   Tushar Nikam
+   
+### ScreenShots
+
+![Images]('https://i.ibb.co/sgrkbwK/pic8.jpg')
+
+
 
 ## Getting Started
 
