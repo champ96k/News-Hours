@@ -1,6 +1,6 @@
-#### News Hours Apps in FLutter
+# News Hours Apps in FLutter
 
-#### Show some ❤️ and star the repo to support the project
+# Show some ❤️ and star the repo to support the project
   - fork this repo and see the code
 # Development
   - Want to contribute? Great!
@@ -10,7 +10,7 @@
    
 ### ScreenShots
 
-![Images]('https://i.ibb.co/sgrkbwK/pic8.jpg')
+![Images](https://i.ibb.co/sgrkbwK/pic8.jpg)
 
 
 
